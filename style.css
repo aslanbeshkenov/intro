@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-size: 30px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1140px;
+  padding: 10px;
+}
+
+.wrap {
+  margin-bottom: 10px;
+}
+
+.passport__desc span {
+  color: red;
+}
+
+ol li {
+  font-size: 24px;
+}
+
+ol li b {
+  font-size: 24px;
+}
